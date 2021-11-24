@@ -1,6 +1,7 @@
 # FinalVRProject-
 
 Choosen topic VR in Unity. 
+
 The final project were a continuation of the VR game Space Invaders. 
 Github: https://github.com/MvdNotenboom/EarthDroneDefenceProject
 Video: https://www.youtube.com/watch?v=RqHyThiEXg0&ab_channel=M.V.DNoteboom
